@@ -4,6 +4,7 @@ pip install langchain_community
 pip install pypdf
 pip install tiktoken
 pip install sentence_transformers
+pip install openpyxl
 
 
 
